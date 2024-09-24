@@ -1,17 +1,3 @@
-<p align="center">
-  
-![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
-  
-</p>
-
-# <p align='center'> EPSILON SECURITY CONSULTING </p> 
-
-<p align="center"> DURA QUAMVIS, SECURITAS </p>
-  
-<p align="center"> SLMC PRIMER </p>
-
-<p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
-
 ## Table of Contents
   - [Section One: Description and Purpose](#section-one-description-and-purpose)
   - [Section Two: What exactly is the SLMC?](#section-two-what-exactly-is-the-slmc)
@@ -21,46 +7,45 @@
 
 ## SECTION ONE: Description and Purpose
 
-This document is a general-level guide on the basics of the Second Life Military Community. It is made from the perspective of Epsilon Security Consulting and it is intended for individuals who are interested in learning about how the community operates, whether they are part of ESC or not.
-
+This document is a general-level guide on the basics of the Second Life Military Community. It is intended for individuals who are interested in learning about how the community operates.
 
 ## SECTION TWO: What exactly is the SLMC?
 
-The Second Life Military Community is a cluster of self-identified combat roleplay groups on Second Life that mutually agree to participate in Linden Labs damage combat with each other. The SLMC uses scripted weapons typically designed to deal one-hit kills which return the target to a designated home point. The SLMC also designs and employs a variety of vehicles, gear, and technology to make combat more variable and interesting.
+The Second Life Military Community is a cluster of self-identified combat roleplay groups on Second Life that mutually agree at a minimum to participate in Linden Labs damage combat with each other. The SLMC uses scripted weapons typically designed to deal damage to avatars and return the target to a designated spawn point. The SLMC also designs and employs a variety of gear and technology to make combat more variable and interesting. Each individual group has its own aeshetic and perspective on how things should be done.
 
-The SLMC has a long history (for a video game), spanning back to the early 2000s. Unfortunately, a portion of the individuals in our community are unabashedly toxic and entirely devoid of any concern for anyone but themselves and their own. It is not as bad as it used to be, but the necessity of this warning still remains: if you intend to participate, be aware that you will need a thick skin. People won't care if you're offended.
+The SLMC has a long history (considering it is a digital social platform), that spans back to the early 2000s. Unfortunately, a portion of the individuals in our community are unabashedly toxic and entirely devoid of any concern for anyone but themselves and their own. It is not as bad as it used to be, but the necessity of this warning still remains: if you intend to participate, be aware that you will need a thick skin. People won't care if you're offended.
 
 
 ## SECTION THREE: General Etiquette Do's and Don'ts
 
-There are certain behaviors expected of everyone participating in the Second Life Military Community, whether they are affiliated with a group or a lone wolf. While we will usually attempt to politely correct your mistake at first, failure to comply could result in anything from being made fun of to being shot, ejected, or banned. The following is a list of some basic DOs and DON'Ts that apply to the majority of participating groups:
+There are certain behaviors expected of everyone participating in the Second Life Military Community, whether they are affiliated with a group or not. While the community generally extends grace to newbies at first, failure to comply may have unpleasant consequences. The following is a list of some basic DOs and DON'Ts that apply to the majority of participating groups:
 
 - DO: Set your home. When you enter a combat sim, please join the spawn group and set your home point in the spawn area. 
   - Second Life is poorly optimized and dated software. Because of that, leaving and especially entering a sim can cause what is known as a "rez queue," where bullets, grenades, and other assets cannot be rezzed until the sim is done loading you. This can last from a moment to a few minutes, depending on the avatar and server, and brings combat to a halt. 
   - If you leave and re-enter a sim every time you die, you will likely incur the ire of the group you are visiting.
-- DO: Wear clothes. SLMC sims are not sex sims. We don’t want to see genitals, even if you make them invisible. There are plenty of other places on SL that exist just for that.
+- DO: Wear clothes. SLMC sims are not sex sims. We don’t want to see genitals, even if you make them invisible. There are plenty of other places on SL to do get your 18+ business on.
 - DO: Be aware of escalation. The SLMC is very well armed, but we prefer to use gear similar to what you are using to make for a fair fight. 
   - If you come to fight with a basic assault rifle, most groups will use their basic weapons also. By the same principle, if you bring out a tank, rocket launcher, or heavy machine gun, you can expect similar force used against you. 
 - DO: Read the rules. When you enter a combat sim for the first time, take five minutes to grab the rules and read. Even if you are not doing combat, there may be areas that are off limits to visitors or certain attachments that are not permitted. Just read. It isn't hard. You're doing it right now.
-- DO: Keep your cool. This is a game. We do this for our enjoyment, period. If you are having a bad time, there is nothing stopping you from leaving. If you are becoming frustrated enough for loud complaining or foul play, you should probably take a break instead. Remember, thick skin to survive.
+- DO: Keep your cool. This is not real life. If you are having a bad time, there is nothing stopping you from leaving. Consider taking a break if you get heated. Remember, thick skin to survive.
 
 - DO NOT: Try to explore while armed. If you are just visiting a group that you are not enlisted in, take off your guns or at least sling them. When you enter, you are being watched. If you appear to be combative, you can expect to be killed.
-- DO NOT: Use avatar flight. Avatar flight is disabled in SLMC combat sims. Do not override this unless it is your own sim. If you choose to ignore this, expect to be targeted with prejudice.
-- DO NOT: Cheat. Using client-side features such as wireframe mode, avatar hitboxes, spacebar hovering, disabling pre-jump animations (see glossary for more info), and anything else that gives an unfair advantage, is considered unsportsmanlike and is banned in most SLMC sims. We can tell if you are cheating. Don't do it. If you are not removed from the sim for it, you will be met with extreme force or worse.
-- DO NOT: God-mode. The SLMC does military-style combat with weapons. This is not the place for magic HUDs. Additionally, equipment like auto killers, orbiters, and anything else you might find in a griefing HUD will likely get you kicked out, temp-banned, or put on an auto killer.
-- DO NOT: Grief or crash sims. People pay good money to have a sim to do their thing on. If you interrupt people doing their thing, they probably won't like you very much and you might not be welcome there anymore. Or they might grief you back way harder than you bargained on. Either way, it won't go well for you. If you outright crash the sim, this is not only a denial of the service being paid for, which is a shitty thing to do by itself, but it can also roll back hours of work on scripts, avatars, the sim build and more. You usually will not be welcome back if you do this and other sim owners will be informed of what you've done as well.
+- DO NOT: Use avatar flight. Avatar flight is disabled in SLMC combat sims. Do not override this unless it is your own sim.
+- DO NOT: Cheat. Using client-side features such as wireframe mode, avatar hitboxes, spacebar hovering, disabling pre-jump animations (see glossary for more info), and anything else that gives an unfair advantage is considered unsportsmanlike and is banned in most SLMC sims.
+- DO NOT: God-mode. The SLMC does military-style combat with weapons. This is not the place for magic HUDs. Additionally, equipment like auto killers, orbiters, and anything else you might find in a griefing HUD runs contrary to the intent of fair competition.
+- DO NOT: Grief or crash sims. People pay good money to have a sim to do their thing on. If you interrupt people doing their thing, they probably won't like you very much and you might not be welcome there anymore. Or they might grief you back way harder than you bargained on. Either way, it won't go well for you. If you outright crash the sim, this is not only a denial of the service being paid for, which is a shitty thing to do by itself, but it can also roll back hours of work on scripts, avatars, the sim build and more. Sim owners also share information about these events, so a ban may be extended to other regions.
 
 
 ## SECTION FOUR: The Big Four
 
 THE “BIG FOUR”: As mentioned above, some members of the community take their license to behave for the most part as they see fit without regard to the opinions or feelings of others, and that's par for the course. However, there are four categories of actions that go beyond what even the SLMC tolerates. These "Big Four" are as follows:
-- Distribution of identifying non-public real-life information about others without their consent or knowledge (known as doxxing)
-- GPU crashing or any other griefing that is capable of or designed for permanently damaging a user's real-life PC hardware
-- Creative content theft or distribution (ripping, copybotting, etc); in other words, any unauthorized use of another user's creative work
-- Abuse of the AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from Linden Labs in order to get someone's account suspended or banned.
-  - It is not considered abuse when individuals have a reason to involve LL for actions that go beyond the scope of what is handled within the community - for example, harassment/stalking, threats of real-life violence, or the other Big Four mentioned above.
+- Distribution of private, personally identifying information (PII) about others without their consent or knowledge - also called doxxing
+- GPU crashing or griefing that is designed to or has the capability to permanently damage a user's real-life PC hardware
+- Creative content theft or distribution (ripping, copybotting, etc); any unauthorized use or sharing of another user's creative work
+- Abuse of the AR (abuse report) system. This is defined as a bad-faith attempt to provoke a response from Linden Labs in order to get someone's account suspended or banned.
+  - It is not considered abuse if there is a legitimate reason to involve LL for actions that go beyond the scope of issues within just our community - for example, harassment or stalking, threats of real-life violence, or a violation of one of the Big Four mentioned above.
 
-The overarching point is that while we may be rough around the edges, we draw the line at real-life impacts. Chances are that if you do any of these things, you're not likely to be welcomed anymore anywhere in the SLMC.
+The main point to understand is that, while the community permits a very wide range of behavior, we do have a line. We draw that line where the impact reaches beyond Second Life.
 
 
 ## SECTION FIVE: Glossary
@@ -80,5 +65,5 @@ The SLMC is deeply intertwined with the more technical side of Second Life as we
 - **Safe zone/spawn area**: In SLMC sims, your spawn point is usually contained within a safe zone where the opposing team is not permitted to enter during combat. Each group will define their own safe zone and protocol regarding it for both the defenders and the attackers. Intentionally entering the opposing safe zone is considered poor manners and will typically be responded to with force.
 - **Space-barring**: The space bar allows you to hover in mid air or cancel a hard-fall. This is considered by most to be a crutch for poorly skilled combatants and some sims outright ban this.
 
-
+*Credit goes to Kenneth Hale for the original iteration of this document. Thank you, Kenny.*
 
