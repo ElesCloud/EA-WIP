@@ -23,7 +23,7 @@ There are certain behaviors expected of everyone participating in the Second Lif
 - DO: Set your home. When you enter a combat sim, please join the spawn group and set your home point in the spawn area. 
   - Second Life is poorly optimized and dated software. Because of that, leaving and especially entering a sim can cause what is known as a "rez queue," where bullets, grenades, and other assets cannot be rezzed until the sim is done loading you. This can last from a moment to a few minutes, depending on the avatar and server, and brings combat to a halt. 
   - If you leave and re-enter a sim every time you die, you will likely incur the ire of the group you are visiting.
-- DO: Wear clothes. SLMC sims are not sex sims. We don’t want to see genitals, even if you make them invisible. There are plenty of other places on SL to do get your 18+ business on.
+- DO: Wear clothes. SLMC sims are not sex sims. We don’t want to see genitals, even if you make them invisible. There are plenty of other places on SL to go get your 18+ business on.
 - DO: Be aware of escalation. The SLMC is very well armed, but we prefer to use gear similar to what you are using to make for a fair fight. 
   - If you come to fight with a basic assault rifle, most groups will use their basic weapons also. By the same principle, if you bring out a tank, rocket launcher, or heavy machine gun, you can expect similar force used against you. 
 - DO: Read the rules. When you enter a combat sim for the first time, take five minutes to grab the rules and read. Even if you are not doing combat, there may be areas that are off limits to visitors or certain attachments that are not permitted. Just read. It isn't hard. You're doing it right now.
